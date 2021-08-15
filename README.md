@@ -10,3 +10,10 @@ Projects on different Case Studies
 - Then started doing Univariate Analysis and Drawing correlation matrix.
 - After this checked for variables for higher correlations so we can do Bivariate and Multivariate analysis and take some inferences.
 - Created a porfolio with the inferences I got from the analysis and the visualizations.
+#### Technologies Used:
+- Python
+- Libraries:
+  - Numpy
+  - Pandas
+  - Seaborn
+  - Matplotlib
